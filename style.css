@@ -124,7 +124,7 @@ img{
 
 /* Showcase */
 .hero{
-  background: url('../edge_website/images/home/showcase.jpg') no-repeat center/cover;
+  background: url('./images/home/showcase.jpg') no-repeat center/cover;
   height: 100vh;
   color: #ffffff;
   position: relative;
