@@ -1,7 +1,4 @@
 # EdgeLedger
-EdgeLedger is a sample website for financial assisstance.
+EdgeLedger is a demo website for financial assisstance company.
 
-This site is live on:->
-https://edgeleg.netlify.app
-
-I deployed it on Netlify for your view pleasure.
+And I designed it to give a professional feel to the user.
